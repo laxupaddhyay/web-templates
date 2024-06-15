@@ -5,7 +5,7 @@ Welcome to my GitHub repository showcasing my web projects! Below you will find 
 ## 🌟 Websites
 
 ### [Vertex Website](https://vertex-plum.vercel.app/)
-[![image](https://github.com/laxupaddhyay/web-templates/assets/95523785/c96b1599-c079-49dd-adeb-b28fd43f4490)(https://picsum.photos/800/400)](https://vertex-plum.vercel.app/)
+[![image](https://github.com/laxupaddhyay/web-templates/assets/95523785/c96b1599-c079-49dd-adeb-b28fd43f4490)](https://vertex-plum.vercel.app/)
 (https://vertex-plum.vercel.app/800x400.png?text=Vertex+Website)  
 **Vertex** is a sleek and professional website designed for corporate and business purposes. It includes sections for services, testimonials, and a contact form to facilitate business communications.
 
