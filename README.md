@@ -87,6 +87,6 @@ root
 
 ```
 📬 Contact
-If you have any questions or suggestions, feel free to contact me at [lakshyasharma024.com].
+If you have any questions or suggestions, feel free to contact me at [lakshyasharma024.com](mailto:lakshyasharma024@gmail.com).
 
 Thank you for visiting!
