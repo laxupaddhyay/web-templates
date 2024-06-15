@@ -5,7 +5,7 @@ Welcome to my GitHub repository showcasing my web projects! Below you will find 
 ## 🌟 Websites
 
 ### [Vertex Website](https://vertex-plum.vercel.app/)
-![Vertex Website Screenshot](https://via.placeholder.com/800x400.png?text=Vertex+Website)  
+![Vertex Website Screenshot](https://vertex-plum.vercel.app/800x400.png?text=Vertex+Website)  
 **Vertex** is a sleek and professional website designed for corporate and business purposes. It includes sections for services, testimonials, and a contact form to facilitate business communications.
 
 🔗 [Visit Vertex Website](https://vertex-plum.vercel.app/)
