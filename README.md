@@ -14,7 +14,8 @@ Welcome to my GitHub repository showcasing my web projects! Below you will find 
 ---
 
 ### [Namari Website](https://namari-pi.vercel.app/)
-![Namari Website Screenshot](https://via.placeholder.com/800x400.png?text=Namari+Website)  
+[![image](https://github.com/laxupaddhyay/web-templates/assets/95523785/f7f6287d-5820-42cf-904c-fbb18fd4d6e6)](https://namari-pi.vercel.app/)
+
 **Namari** is a modern, responsive website template. It is perfect for showcasing products, services, and portfolios. This site is designed with a clean and elegant aesthetic.
 
 🔗 [Visit Namari Website](https://namari-pi.vercel.app/)
@@ -22,7 +23,9 @@ Welcome to my GitHub repository showcasing my web projects! Below you will find 
 ---
 
 ### [Travel Website](https://travel-nu-six.vercel.app/)
-![Travel Website Screenshot](https://via.placeholder.com/800x400.png?text=Travel+Website)  
+
+[![image](https://github.com/laxupaddhyay/web-templates/assets/95523785/c3369f98-6612-4c0d-8dd8-3b65916ea6e7)](https://travel-nu-six.vercel.app/)
+ 
 **Travel** is a comprehensive travel website that offers a variety of features including destination guides, travel tips, and booking options. This project was built using modern web technologies to provide an engaging user experience.
 
 🔗 [Visit Travel Website](https://travel-nu-six.vercel.app/)
@@ -30,7 +33,8 @@ Welcome to my GitHub repository showcasing my web projects! Below you will find 
 ---
 
 ### [Preschool Website](https://preschool-nu.vercel.app/)
-![Preschool Website Screenshot](https://via.placeholder.com/800x400.png?text=Preschool+Website)  
+[![image](https://github.com/laxupaddhyay/web-templates/assets/95523785/c2d4b305-ace4-4e07-b694-2c0465f78295)](https://preschool-nu.vercel.app/)
+
 **Preschool** is an informative and engaging website designed for a preschool. It includes sections about the curriculum, teachers, activities, and enrollment information. The site is crafted to be user-friendly for parents looking for quality early education options.
 
 🔗 [Visit Preschool Website](https://preschool-nu.vercel.app/)
